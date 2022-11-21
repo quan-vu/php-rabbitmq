@@ -69,16 +69,16 @@
             "time": "2022-07-30T15:56:11+00:00"
         },
         {
-            "name": "minicli/minicli",
+            "name": "prabbit/prabbit",
             "version": "3.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/minicli/minicli.git",
+                "url": "https://github.com/prabbit/prabbit.git",
                 "reference": "2d31b303461d0ec1f8c6d0be00f8b26be8766fbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/minicli/minicli/zipball/2d31b303461d0ec1f8c6d0be00f8b26be8766fbe",
+                "url": "https://api.github.com/repos/prabbit/prabbit/zipball/2d31b303461d0ec1f8c6d0be00f8b26be8766fbe",
                 "reference": "2d31b303461d0ec1f8c6d0be00f8b26be8766fbe",
                 "shasum": ""
             },
@@ -102,14 +102,14 @@
                 "MIT"
             ],
             "description": "Experimental micro CLI framework for PHP",
-            "homepage": "https://github.com/minicli/minicli",
+            "homepage": "https://github.com/prabbit/prabbit",
             "keywords": [
                 "cli",
                 "command-line"
             ],
             "support": {
-                "issues": "https://github.com/minicli/minicli/issues",
-                "source": "https://github.com/minicli/minicli/tree/3.2.1"
+                "issues": "https://github.com/prabbit/prabbit/issues",
+                "source": "https://github.com/prabbit/prabbit/tree/3.2.1"
             },
             "funding": [
                 {
