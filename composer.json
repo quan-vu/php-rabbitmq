@@ -1,9 +1,10 @@
 {
-    "name": "quan-vu/php-rabbitmq-example",
+    "name": "phprabbit/phprabbit",
     "type": "project",
     "description": "Working with RabbitMQ in PHP.",
     "keywords": ["php", "rabbitmq"],
     "license": "MIT",
+    "version": "1.0",
     "require": {
         "php": "^8.1",
         "php-amqplib/php-amqplib": "^3.4",
@@ -11,7 +12,8 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Prabbit\\": "lib/",
+            "App\\": "app/"
         }
     },
     "autoload-dev": {
