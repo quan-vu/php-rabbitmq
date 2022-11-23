@@ -1,0 +1,10 @@
+[2022-11-23 13:56:11] worker.INFO:[MailService] Sent email from support@abc.com to quan-vu@example.com
+[2022-11-23 13:56:30] worker.INFO:Test log
+[2022-11-23 14:12:43] worker.INFO:[PDFService] Generated invoice_1669187561.pdf.pdf
+[2022-11-23 14:12:45] worker.INFO:[MailService] Sent email from support@abc.com to quan-vu@example.com
+[2022-11-23 14:12:48] worker.INFO:[PDFService] Generated invoice_1669187562.pdf.pdf
+[2022-11-23 14:12:51] worker.INFO:[MailService] Sent email from support@abc.com to quan-vu@example.com
+[2022-11-23 14:13:35] worker.INFO:[PDFService] Generated invoice_1669187611.pdf
+[2022-11-23 14:13:36] worker.INFO:[MailService] Sent email from support@abc.com to quan-vu@example.com
+[2022-11-23 14:13:41] worker.INFO:[PDFService] Generated invoice_1669187612.pdf
+[2022-11-23 14:13:43] worker.INFO:[MailService] Sent email from support@abc.com to quan-vu@example.com
